@@ -1,0 +1,6 @@
+{
+  "name": "Kati - Multi-Tenant AI HR Platform",
+  "description": "Centralized multi-tenant AI HR solution. Dedicated company policy customization, automated onboarding modules, real-time analytics, and role-based isolated dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
